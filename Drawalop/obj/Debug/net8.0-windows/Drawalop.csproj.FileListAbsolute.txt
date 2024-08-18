@@ -1,0 +1,16 @@
+C:\Users\kenny\source\repos\Drawalop\Drawalop\obj\Debug\net8.0-windows\Drawalop.Form1.resources
+C:\Users\kenny\source\repos\Drawalop\Drawalop\obj\Debug\net8.0-windows\Drawalop.csproj.GenerateResource.cache
+C:\Users\kenny\source\repos\Drawalop\Drawalop\obj\Debug\net8.0-windows\Drawalop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenny\source\repos\Drawalop\Drawalop\obj\Debug\net8.0-windows\Drawalop.AssemblyInfoInputs.cache
+C:\Users\kenny\source\repos\Drawalop\Drawalop\obj\Debug\net8.0-windows\Drawalop.AssemblyInfo.cs
+C:\Users\kenny\source\repos\Drawalop\Drawalop\obj\Debug\net8.0-windows\Drawalop.csproj.CoreCompileInputs.cache
+C:\Users\kenny\source\repos\Drawalop\Drawalop\bin\Debug\net8.0-windows\Drawalop.exe
+C:\Users\kenny\source\repos\Drawalop\Drawalop\bin\Debug\net8.0-windows\Drawalop.deps.json
+C:\Users\kenny\source\repos\Drawalop\Drawalop\bin\Debug\net8.0-windows\Drawalop.runtimeconfig.json
+C:\Users\kenny\source\repos\Drawalop\Drawalop\bin\Debug\net8.0-windows\Drawalop.dll
+C:\Users\kenny\source\repos\Drawalop\Drawalop\bin\Debug\net8.0-windows\Drawalop.pdb
+C:\Users\kenny\source\repos\Drawalop\Drawalop\obj\Debug\net8.0-windows\Drawalop.dll
+C:\Users\kenny\source\repos\Drawalop\Drawalop\obj\Debug\net8.0-windows\refint\Drawalop.dll
+C:\Users\kenny\source\repos\Drawalop\Drawalop\obj\Debug\net8.0-windows\Drawalop.pdb
+C:\Users\kenny\source\repos\Drawalop\Drawalop\obj\Debug\net8.0-windows\Drawalop.genruntimeconfig.cache
+C:\Users\kenny\source\repos\Drawalop\Drawalop\obj\Debug\net8.0-windows\ref\Drawalop.dll

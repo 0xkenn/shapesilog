@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kenny\\source\\repos\\Drawalop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFBB4DA-B1E0-45AA-832F-086E60A2C40B}|Drawalop\\Drawalop.csproj|c:\\users\\kenny\\source\\repos\\drawalop\\drawalop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFBB4DA-B1E0-45AA-832F-086E60A2C40B}|Drawalop\\Drawalop.csproj|solutionrelative:drawalop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFBB4DA-B1E0-45AA-832F-086E60A2C40B}|Drawalop\\Drawalop.csproj|c:\\users\\kenny\\source\\repos\\drawalop\\drawalop\\abstractdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFBB4DA-B1E0-45AA-832F-086E60A2C40B}|Drawalop\\Drawalop.csproj|solutionrelative:drawalop\\abstractdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFBB4DA-B1E0-45AA-832F-086E60A2C40B}|Drawalop\\Drawalop.csproj|c:\\users\\kenny\\source\\repos\\drawalop\\drawalop\\iabstractdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFBB4DA-B1E0-45AA-832F-086E60A2C40B}|Drawalop\\Drawalop.csproj|solutionrelative:drawalop\\iabstractdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFBB4DA-B1E0-45AA-832F-086E60A2C40B}|Drawalop\\Drawalop.csproj|c:\\users\\kenny\\source\\repos\\drawalop\\drawalop\\initdrawimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFBB4DA-B1E0-45AA-832F-086E60A2C40B}|Drawalop\\Drawalop.csproj|solutionrelative:drawalop\\initdrawimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFBB4DA-B1E0-45AA-832F-086E60A2C40B}|Drawalop\\Drawalop.csproj|c:\\users\\kenny\\source\\repos\\drawalop\\drawalop\\initdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFBB4DA-B1E0-45AA-832F-086E60A2C40B}|Drawalop\\Drawalop.csproj|solutionrelative:drawalop\\initdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFBB4DA-B1E0-45AA-832F-086E60A2C40B}|Drawalop\\Drawalop.csproj|c:\\users\\kenny\\source\\repos\\drawalop\\drawalop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFBB4DA-B1E0-45AA-832F-086E60A2C40B}|Drawalop\\Drawalop.csproj|solutionrelative:drawalop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFBB4DA-B1E0-45AA-832F-086E60A2C40B}|Drawalop\\Drawalop.csproj|C:\\Users\\kenny\\source\\repos\\Drawalop\\drawalop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3FFBB4DA-B1E0-45AA-832F-086E60A2C40B}|Drawalop\\Drawalop.csproj|solutionrelative:drawalop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFBB4DA-B1E0-45AA-832F-086E60A2C40B}|Drawalop\\Drawalop.csproj|c:\\users\\kenny\\source\\repos\\drawalop\\drawalop\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFBB4DA-B1E0-45AA-832F-086E60A2C40B}|Drawalop\\Drawalop.csproj|solutionrelative:drawalop\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFBB4DA-B1E0-45AA-832F-086E60A2C40B}|Drawalop\\Drawalop.csproj|C:\\Users\\kenny\\source\\repos\\Drawalop\\drawalop\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{3FFBB4DA-B1E0-45AA-832F-086E60A2C40B}|Drawalop\\Drawalop.csproj|solutionrelative:drawalop\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\kenny\\source\\repos\\Drawalop\\Drawalop\\Form1.cs",
+              "RelativeDocumentMoniker": "Drawalop\\Form1.cs",
+              "ToolTip": "C:\\Users\\kenny\\source\\repos\\Drawalop\\Drawalop\\Form1.cs",
+              "RelativeToolTip": "Drawalop\\Form1.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAkwGEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T07:39:09.973Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InitDraw.cs",
+              "DocumentMoniker": "C:\\Users\\kenny\\source\\repos\\Drawalop\\Drawalop\\InitDraw.cs",
+              "RelativeDocumentMoniker": "Drawalop\\InitDraw.cs",
+              "ToolTip": "C:\\Users\\kenny\\source\\repos\\Drawalop\\Drawalop\\InitDraw.cs",
+              "RelativeToolTip": "Drawalop\\InitDraw.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T07:40:03.406Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAbstractDraw.cs",
+              "DocumentMoniker": "C:\\Users\\kenny\\source\\repos\\Drawalop\\Drawalop\\IAbstractDraw.cs",
+              "RelativeDocumentMoniker": "Drawalop\\IAbstractDraw.cs",
+              "ToolTip": "C:\\Users\\kenny\\source\\repos\\Drawalop\\Drawalop\\IAbstractDraw.cs",
+              "RelativeToolTip": "Drawalop\\IAbstractDraw.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T08:03:54.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InitDrawImplementation.cs",
+              "DocumentMoniker": "C:\\Users\\kenny\\source\\repos\\Drawalop\\Drawalop\\InitDrawImplementation.cs",
+              "RelativeDocumentMoniker": "Drawalop\\InitDrawImplementation.cs",
+              "ToolTip": "C:\\Users\\kenny\\source\\repos\\Drawalop\\Drawalop\\InitDrawImplementation.cs",
+              "RelativeToolTip": "Drawalop\\InitDrawImplementation.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T07:42:57.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\kenny\\source\\repos\\Drawalop\\Drawalop\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Drawalop\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\kenny\\source\\repos\\Drawalop\\Drawalop\\Form1.Designer.cs",
+              "RelativeToolTip": "Drawalop\\Form1.Designer.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T09:04:17.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AbstractDraw.cs",
+              "DocumentMoniker": "C:\\Users\\kenny\\source\\repos\\Drawalop\\Drawalop\\AbstractDraw.cs",
+              "RelativeDocumentMoniker": "Drawalop\\AbstractDraw.cs",
+              "ToolTip": "C:\\Users\\kenny\\source\\repos\\Drawalop\\Drawalop\\AbstractDraw.cs",
+              "RelativeToolTip": "Drawalop\\AbstractDraw.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T03:33:00.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kenny\\source\\repos\\Drawalop\\Drawalop\\Form1.cs",
+              "RelativeDocumentMoniker": "Drawalop\\Form1.cs",
+              "ToolTip": "C:\\Users\\kenny\\source\\repos\\Drawalop\\Drawalop\\Form1.cs [Design]",
+              "RelativeToolTip": "Drawalop\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T09:16:53.819Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kenny\\source\\repos\\Drawalop\\Drawalop\\Program.cs",
+              "RelativeDocumentMoniker": "Drawalop\\Program.cs",
+              "ToolTip": "C:\\Users\\kenny\\source\\repos\\Drawalop\\Drawalop\\Program.cs",
+              "RelativeToolTip": "Drawalop\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T07:38:47.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\kenny\\source\\repos\\Drawalop\\Drawalop\\Form1.resx",
+              "RelativeDocumentMoniker": "Drawalop\\Form1.resx",
+              "ToolTip": "C:\\Users\\kenny\\source\\repos\\Drawalop\\Drawalop\\Form1.resx",
+              "RelativeToolTip": "Drawalop\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-13T09:31:06.599Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
